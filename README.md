@@ -7,6 +7,7 @@ Scenario1:
 1. Register admin key
 2. Add new project using the registered admin key
 3. List projects and confirm the new project is available
+
 Scenario2:
 1. Regenerate admin key
 2. Add new fence using the regenerated admin key
